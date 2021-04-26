@@ -41,9 +41,34 @@ Dan lakukan Push Repository untuk Branch `production` dengan Command: `git push 
 
 ![alt text](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/blob/main/Repository/img/bandicam%202021-04-27%2005-37-34-424.jpg)
 
-Masuk ke direktori `waysgallery-backend`, lalu membuat Branch `development` dengan Command `git branch development`, masuk ke Branch `development` dengan Command: `git checkout development`.
+Masuk ke direktory `waysgallery-backend`, dan lakukan inisialisasi Git untuk pertama kalinya dengan Command: `git init`. Membuat Branch baru untuk `development` dengan Command: `git branch development`. Masuk ke Branch `development` dengan Command: `git checkout development`. Melakukan Commit File untuk Branch `development` dengan Command: `git commit -m development`. 
 
-Lalu melakukan inisialisasi Git Remote pertama kalinya dengan command `git init`. Lalu tambahkan File yang ingin di push dengan Branch `development` dengan command: `git add .`. Commit untuk Branch Development dengan command: `git commit -m development`. Menentukan Branch Master untuk `development` dengan command: `git branch -M development`.
+Lakukan Push ke Repository untuk Branch `development` dengan Command: `git push -u origin development`
+
+Membuat Branch baru untuk `production` dengan Command: `git branch production`, lalu masuk ke Branch tersebut dengan Command: `git checkout production`. Lakukan Commit File untuk Branch `production` dengan Command: `git commit -m production` 
+
+Lakukan Push ke Repository untuk Branch `production` dengan Command: `git push -u origin production`
+
+![alt text](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/blob/main/Repository/img/bandicam%202021-04-27%2005-42-40-559.jpg)
+
+![alt text](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/blob/main/Repository/img/bandicam%202021-04-27%2005-42-43-158.jpg)
+
+6. Repository sudah berhasil di Push.
+
+![alt text](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/blob/main/Repository/img/bandicam%202021-04-27%2005-44-30-865.jpg)
+
+![alt text](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/blob/main/Repository/img/bandicam%202021-04-27%2005-44-48-831.jpg)
+
+- Repository housy-backend
+- Repository housy-frontend
+
+
+
+
+
+
+
+
 
 
 
