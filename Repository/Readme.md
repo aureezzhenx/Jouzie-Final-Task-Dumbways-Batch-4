@@ -59,8 +59,8 @@ Lakukan Push ke Repository untuk Branch `production` dengan Command: `git push -
 
 ![alt text](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/blob/main/Repository/img/bandicam%202021-04-27%2005-44-48-831.jpg)
 
-- Repository housy-backend
-- Repository housy-frontend
+- [Repository housy-backend](https://github.com/aureezzhenx/housy-backend)
+- [Repository housy-frontend](https://github.com/aureezzhenx/housy-frontend)
 
 
 
