@@ -2,7 +2,7 @@
 Jouzie Aulia Rezky - Final Task Dumbways DevOps Batch 4 Bootcamp
 
 - [Repository](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/tree/main/Repository)
-- Server
+- [Server](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/tree/main/Server)
 - User
 - SSH
 - Database
