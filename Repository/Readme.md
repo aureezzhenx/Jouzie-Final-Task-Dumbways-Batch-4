@@ -4,6 +4,7 @@ Ditugaskan:
 
 - Membuat Repository sendiri untuk `housy-frontend` dan `housy-backend`
 - Membuat Repository untuk jawaban Final Task
+- Membuat Branch `development` dan `production`
 
 1. Membuat Repository sendiri untuk `house-frontend` dan `housy-backend`
 
