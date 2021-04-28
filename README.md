@@ -10,3 +10,7 @@ Jouzie Aulia Rezky - Final Task Dumbways DevOps Batch 4 Bootcamp
 - [Deployment](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/tree/main/Deployment)
 - CI/CD
 - [Monitoring](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/tree/main/Monitoring)
+
+Repository
+- [Housy Frontend](https://github.com/aureezzhenx/housy-backend)
+- [Housy Backend](https://github.com/aureezzhenx/housy-backend)
