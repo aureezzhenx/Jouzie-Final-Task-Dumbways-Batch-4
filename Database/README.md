@@ -4,5 +4,5 @@
 
 Saya lakukan store data di direktori `/home/jouziedatabase/postgresql/data`
 
-[!image](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/blob/main/Database/bandicam%202021-04-28%2023-17-53-995.jpg)
+[alt text](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/blob/main/Database/bandicam%202021-04-28%2023-17-53-995.jpg)
 
