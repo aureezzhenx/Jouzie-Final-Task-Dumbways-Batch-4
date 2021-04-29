@@ -9,7 +9,7 @@ User Instance
 - Monitoring : jouziemonitoring 
 
 ```
-1. Masuk ke setiap Instance Private
+1. Masuk ke setiap Instances
 2. Menambahkan user baru dengan Command: sudo adduser jouzie.....
 3. Mengisi Password user baru
 4. Mengisi identitas user baru
