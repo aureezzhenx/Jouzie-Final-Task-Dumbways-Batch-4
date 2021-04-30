@@ -14,5 +14,5 @@ SSH Key: aureezzhenx@dumbways (aureezzhenx@aureezzgame-PC)
 - [Monitoring Prometheus Grafana](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/tree/main/Monitoring)
 
 Repository
-- [Housy Frontend](https://github.com/aureezzhenx/housy-backend)
-- [Housy Backend](https://github.com/aureezzhenx/housy-backend)
+- [Housy Frontend (Waysgallery-Frontend)](https://github.com/aureezzhenx/housy-backend)
+- [Housy Backend (Waysgallery-Backend)](https://github.com/aureezzhenx/housy-backend)
