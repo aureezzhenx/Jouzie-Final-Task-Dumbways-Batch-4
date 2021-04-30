@@ -52,7 +52,7 @@
 4. Dari Server Backend ke Server Database
 
 ```
-1. Lakukan Copy SSH Key Public ke Server Backend agar dapat di-generate secara automatis langsung ke authorized_keys di Server Database
+1. Lakukan Copy SSH Key Public ke Server Database agar dapat di-generate secara automatis langsung ke authorized_keys di Server Database
 2. Melakukan verifikasi dan identifikasi SSH Key dengan SSH Agent untuk pertama kalinya dengan Command: eval `ssh-agent -s`
 3. Menambahkan SSH Private Key yang sudah dibuat ke SSH Agent dengan command: ssh-add aureezzhenx@dumbways
 4. Copy dengan command: scp aureezzhenx@dumbways.pub jouziedatabase@172.31.75.134:/home/jouziedatabase/aureezzhenx@dumbways.pub | scp aureezzhenx@dumbways.pub jouziedatabase@172.31.75.134:/home/jouziedatabase/aureezzhenx@dumbways
@@ -64,7 +64,7 @@
 5. Dari Server Database ke Server CI/CD
 
 ```
-1. Lakukan Copy SSH Key Public ke Server Backend agar dapat di-generate secara automatis langsung ke authorized_keys di Server CI/CD
+1. Lakukan Copy SSH Key Public ke Server CI/CD agar dapat di-generate secara automatis langsung ke authorized_keys di Server CI/CD
 2. Melakukan verifikasi dan identifikasi SSH Key dengan SSH Agent untuk pertama kalinya dengan Command: eval `ssh-agent -s`
 3. Menambahkan SSH Private Key yang sudah dibuat ke SSH Agent dengan command: ssh-add aureezzhenx@dumbways
 4. Copy dengan command: scp aureezzhenx@dumbways.pub jouziecicd@172.31.65.126:/home/jouziecicd/aureezzhenx@dumbways.pub | scp aureezzhenx@dumbways.pub jouziecicd@172.31.65.126:/home/jouziecicd/aureezzhenx@dumbways
@@ -76,7 +76,7 @@
 6. Dari Server CI/CD ke Server Monitoring
 
 ```
-1. Lakukan Copy SSH Key Public ke Server Backend agar dapat di-generate secara automatis langsung ke authorized_keys di Server Monitoring
+1. Lakukan Copy SSH Key Public ke Server Monitoring agar dapat di-generate secara automatis langsung ke authorized_keys di Server Monitoring
 2. Melakukan verifikasi dan identifikasi SSH Key dengan SSH Agent untuk pertama kalinya dengan Command: eval `ssh-agent -s`
 3. Menambahkan SSH Private Key yang sudah dibuat ke SSH Agent dengan command: ssh-add aureezzhenx@dumbways
 4. Copy dengan command: scp aureezzhenx@dumbways.pub jouziemonitoring@172.31.73.143:/home/jouziemonitoring/aureezzhenx@dumbways.pub | scp aureezzhenx@dumbways.pub jouziemonitoring@172.31.73.143:/home/jouziemonitoring/aureezzhenx@dumbways
