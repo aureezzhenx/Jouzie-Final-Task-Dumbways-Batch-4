@@ -85,3 +85,20 @@
 
 ![alt image](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/blob/main/SSH/bandicam%202021-04-27%2014-28-47-360.jpg)
 
+7. Menambahkan SSH Key Public ke GitHub
+
+Buka pengaturan akun GitHub, lalu masuk ke SSH and GPG Keys. Klik New SSH Key
+
+![alt image](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/blob/main/SSH/bandicam%202021-04-27%2014-37-48-691.jpg)
+
+Menambahkan isi dari SSH Public Key aureezzhenx@dumbways
+
+![alt image](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/blob/main/SSH/bandicam%202021-04-27%2014-38-23-914.jpg)
+
+![alt image](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/blob/main/SSH/bandicam%202021-04-27%2014-38-58-581.jpg)
+
+8. Tes koneksi GitHub dengan cara: `ssh -T git@github.com` di Server Frontend dan Backend
+
+![alt image](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/blob/main/SSH/bandicam%202021-04-27%2014-40-40-143.jpg)
+
+![alt image](https://github.com/aureezzhenx/Jouzie-Final-Task-Dumbways-Batch-4/blob/main/SSH/bandicam%202021-04-27%2014-42-55-786.jpg)
